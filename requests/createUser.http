@@ -1,0 +1,10 @@
+POST {{host}}/api/user
+Content-Type: application/json
+
+{
+  "name": "Leonid",
+  "username": "offlinebrain",
+  "email": "fakeemail@mailengine.com",
+  "password": "secret123"
+}
+

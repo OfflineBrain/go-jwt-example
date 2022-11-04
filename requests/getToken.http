@@ -1,0 +1,7 @@
+POST {{host}}/api/token
+Content-Type: application/json
+
+{
+  "username": "offlinebrain",
+  "password": "secret123"
+}
